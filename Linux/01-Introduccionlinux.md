@@ -9,7 +9,6 @@ En eseste curso aprenderemos un poco de historia  de Linux, la instalación y co
 Tambien aprenderemos a programar en **BASH** a un nivel inicial.
 
 
-
 ## ¿Qué es Linux?
 
 LINUX (o GNU/LINUX, más correctamente) es un Sistema Operativo como MacOS, DOS o Windows. Es decir, Linux es el software necesario para que tu ordenador te permita utilizar programas como: editores de texto, juegos, navegadores de Internet, etc. Linux puede usarse mediante un interfaz gráfico al igual que Windows o MacOS, pero también puede usarse mediante línea de comandos como DOS.

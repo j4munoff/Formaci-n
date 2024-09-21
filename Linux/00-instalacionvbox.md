@@ -206,6 +206,7 @@ sudo apt full-upgrade -y
 ```bash
 sudo apt dist-upgrade -y
 ```
+![alt text](../images/img-00-instalacionvbox.png)
 
 
 Luego ejecutamos la opción autoremove para eliminar paquetes obsoletos.
@@ -213,10 +214,15 @@ Luego ejecutamos la opción autoremove para eliminar paquetes obsoletos.
 ```bash
 sudo apt autoremove -y
 ```
+![alt text](../images/img-00-instalacionvbox-1.png)
 
 Por último comprobamos que está todo al día con otro update.
 
-Si todo está OK reiniciamos con el comando:
+![alt text](../images/img-00-instalacionvbox-2.png)
+
+Si todo está OK reiniciamos con el comando **reboot**.
+
+![alt text](../images/img-00-instalacionvbox-3.png)
 
 ```bash
 sudo reboot
