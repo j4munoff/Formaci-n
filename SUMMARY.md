@@ -10,5 +10,6 @@
 
 ## Linux
 
-* [Introducción](Linux/linux.md)
-* [Instalación de Linux en VirtualBox](Linux/instalacionvbox.md)
+* [Introducción](Linux/01-Introduccionlinux.md)
+* [Instalación de Linux en VirtualBox](Linux/00-instalacionvbox.md)
+* 

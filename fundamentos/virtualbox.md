@@ -74,4 +74,17 @@ Las redes se pueden ver en modo Experto bajo el menú **Archivo --> Herramientas
 > [!CAUTION]IMPORTANTE
 > La revisión de redes la haremos con una clase.
 
+## Atajos en VirtualBox
+
+En todos los programas de virtualización existe una tecla llamada **MASTER** que permite combinar con otras teclas para interactuar con el sistema anfitrión, nuestro windows.
+
+La tecla master en VirtualBox es la tecla CONTROL DERECHA, (CTLR DER).
+
+![alt text](../images/img-virtualbox-14.png)
+
+Enumeramos los atajos mas comunes dentro de una máquina virtual.
+
+* **MASTER**: Escapar del entorno virtual. Accedemos al operativo principal.
+* **MASTER + F**: Pantalla completa o normal. Alterna ambas.
+
 
