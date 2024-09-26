@@ -31,7 +31,7 @@ Es importante hacer copia de seguridad:
 
 ## Personalización de Linux. Instalación de software adiccional.
 
-Aqui vamos a repasar algunos tips de para personalizar nuestra instalación. Podemos partir de esta página que se ha creado para la ocasión, **[Configuración de KALI](/linux/02-configuracion-del-entorno)**.
+Aqui vamos a repasar algunos tips de para personalizar nuestra instalación. Podemos partir de esta página que se ha creado para la ocasión, **[Configuración de KALI](/linux/configuracion-del-entorno)**.
 
 Ademas podemos comentar:
 
