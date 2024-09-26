@@ -7,6 +7,7 @@ Los objetivos de esta clase son:
 * Personalización de Linux. Instalación de software adiccional.
 * Lecturas/visionados previos recomendados.
 * Modo de aprendizaje practicando. 
+* Toma de notas
 * Plataformas para practicar Hacking Etico. Presentación de DockerLabs.
 * Primera máquina en conjunto
 
@@ -72,6 +73,17 @@ Cuando nos pongamos delante de una máquina iremos explicando los conceptos que 
 No tengamos prisa. Haremos la máquina las veces que sea necesario y repasaremos los conceptos.
 
 Haremos un primer ejemplo al presentar esta clase.
+
+## Toma de notas
+
+Charla sobre toma de notas en la formación.
+
+Charlamos sobre teoria y programas:
+
+* Obsidian
+* Notion
+* Cherrytree
+* Block de texto, notepad, Sublime Text, ...
 
 ## Plataformas para practicar Hacking Etico. Presentación de DockerLabs.
 
