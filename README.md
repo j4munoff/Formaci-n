@@ -4,11 +4,11 @@ En este libro se pretende recopilar toda la información sobre la formación en 
 
 Los contenidos irñan aumentando progresivamente a demanda.
 
-> [!CAUTION]IMPORTANTE
-> No es necesario tener conocimientos previos. Solo un ordenador y ganas.
-
-> [!CAUTION]IMPORTANTE
-> No agobiarse. Nadie nace enseñado.  Se irán viendo las cosas con calma.
+{% hint style="danger" %}
+**IMPORTANTE** 
+* No es necesario tener conocimientos previos. Solo un ordenador y ganas.
+* No agobiarse. Nadie nace enseñado.  Se irán viendo las cosas con calma.
+{% endhint %}
 
 # Temario
 Se cubrirán los siguientes temas:
