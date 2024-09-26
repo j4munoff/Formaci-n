@@ -21,7 +21,7 @@ Arrancamos la máquina Linux y presentamos el escritorio y primeras impresiones.
 
 Es importante que tengamos siempre en cuanta la realización de copias de seguridad de la máquina virtual.
 
-Podemos aprender como se realiza una copia de seguridad **[AQUI](../fundamentos/virtualbox.md#copia-de-seguridad-en-virtualbox)**.
+Podemos aprender como se realiza una copia de seguridad **[AQUI](/fundamentos/virtualbox.md#copia-de-seguridad-en-virtualbox)**.
 
 Es importante hacer copia de seguridad:
 
@@ -31,7 +31,7 @@ Es importante hacer copia de seguridad:
 
 ## Personalización de Linux. Instalación de software adiccional.
 
-Aqui vamos a repasar algunos tips de para personalizar nuestra instalación. Podemos partir de esta página que se ha creado para la ocasión, **[Configuración de KALI](../Linux/02-configuracion-del-entorno)**.
+Aqui vamos a repasar algunos tips de para personalizar nuestra instalación. Podemos partir de esta página que se ha creado para la ocasión, **[Configuración de KALI](/Linux/02-configuracion-del-entorno)**.
 
 Ademas podemos comentar:
 
@@ -75,7 +75,7 @@ Haremos un primer ejemplo al presentar esta clase.
 
 ## Plataformas para practicar Hacking Etico. Presentación de DockerLabs.
 
-Repasamos la página sobre **[Recursos de Pentesting](../pentesting/recursos-pentesting.md)** que hemos preparado.
+Repasamos la página sobre **[Recursos de Pentesting](/pentesting/recursos-pentesting.md)** que hemos preparado.
 
 ## Primera máquina en conjunto
 
