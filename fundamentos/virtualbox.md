@@ -78,6 +78,19 @@ Las redes se pueden ver en modo Experto bajo el menú **Archivo --> Herramientas
 > La revisión de redes la haremos con una clase.
 {: .block-danger }
 
+> ##### DANGER
+>
+> You cannot delete an ephemeral message.
+{: .block-danger }
+
+## Copia de seguridad en VirtualBox
+
+La copia de seguridad o snapshot es una **instantanea** de la máquina virtual en un momento dado. Esto permite restaurar en un futuro la máquina virtual a la versión guardada si por lo que sea la máquina se degrada.
+
+Es conveniente, aunque no obligatorio, que la máquina virtual esté apagada antes de tomar la instantanea.
+
+Para tomar instantaneas
+
 ## Atajos en VirtualBox
 
 En todos los programas de virtualización existe una tecla llamada **MASTER** que permite combinar con otras teclas para interactuar con el sistema anfitrión, nuestro windows.
