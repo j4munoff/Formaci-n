@@ -61,18 +61,22 @@ Pulsamos en Instalar. Bajamos la licencia hasta el final y pulsamos **Acepto**. 
 
 ![alt text](../images/img-virtualbox-12.png)
 
-## Configuraciones de VirtualBox
+## Modo experto de VirtualBox
 
 En la página de bienvenida seleccionar la opción **Expert Mode**.
 
 ![alt text](../images/img-virtualbox-13.png)
 
+Esta opción es necesaria para ver el menu de redes.
+
 ## Redes en VirtualBox
 
 Las redes se pueden ver en modo Experto bajo el menú **Archivo --> Herramientas --> Administrador de Red**. Hay que tener al menos una red NAT.
 
-> [!CAUTION]IMPORTANTE
+> ##### IMPORTANTE
+>
 > La revisión de redes la haremos con una clase.
+{: .block-danger }
 
 ## Atajos en VirtualBox
 
