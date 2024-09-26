@@ -13,10 +13,10 @@
 
 ## Linux
 
-* [Instalación de Linux en VirtualBox](Linux/00-instalacionvbox.md)
-* [Introducción a Linux](Linux/01-introduccionlinux.md)
-* [Configuración del Entorno](Linux/02-configuracion-del-entorno.md)
+* [Instalación de Linux en VirtualBox](linux/00-instalacionvbox.md)
+* [Introducción a Linux](linux/01-introduccionlinux.md)
+* [Configuración del Entorno](linux/02-configuracion-del-entorno.md)
 
 ## Pentesting
 
-* [Recursos de Pentesting](../pentesting/recursos-pentesting.md)
+* [Recursos de Pentesting](pentesting/recursos-pentesting.md)
