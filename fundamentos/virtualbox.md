@@ -73,16 +73,6 @@ Esta opción es necesaria para ver el menu de redes.
 
 Las redes se pueden ver en modo Experto bajo el menú **Archivo --> Herramientas --> Administrador de Red**. Hay que tener al menos una red NAT.
 
-> ##### IMPORTANTE
->
-> La revisión de redes la haremos con una clase.
-{: .block-danger }
-
-> ##### IMPORTANTE
->
-> La revisión de redes la haremos con una clase.
-{: .block-danger }
-
 {% hint style="danger" %}
 **IMPORTANTE** La revisión de redes la haremos con una clase.
 {% endhint %}
@@ -91,9 +81,31 @@ Las redes se pueden ver en modo Experto bajo el menú **Archivo --> Herramientas
 
 La copia de seguridad o snapshot es una **instantanea** de la máquina virtual en un momento dado. Esto permite restaurar en un futuro la máquina virtual a la versión guardada si por lo que sea la máquina se degrada.
 
+### Tomar instantanea
+
 Es conveniente, aunque no obligatorio, que la máquina virtual esté apagada antes de tomar la instantanea.
 
-Para tomar instantaneas
+Para tomar instantaneas podemos ir al menú **Máquina --> Herramientas-->Instantaneas** y con una máquina virtual seleccionada, ir al menú **Instantaneas-->Tomar** y o bien darle al botón **Tomar**.
+
+![alt text](../images/img-virtualbox-15.png)
+
+Le damos un nombre y una descripción si se desea y se pulsa aceptar.
+
+![alt text](../images/img-virtualbox-16.png)
+
+Nos aparecerá la instantanea tomada.
+
+![alt text](../images/img-virtualbox-17.png)
+
+### Restaurar instantanea
+
+Si necesitamos restaurar la máquina virtual a un estado anterior del que se ha tomado instantanea podemos hacerlo de la siguiente manera.
+
+Vamos al menú **Máquina --> Herramientas-->Instantaneas** y seleccionamos una máquina. Hacemos click en la linea con el nombre de la instantanea y damos al botón derecho.
+
+![alt text](../images/img-virtualbox-18.png)
+
+Seleccionamos la opción de **Restaurar** y nos restaurará la máquina virtual.
 
 ## Atajos en VirtualBox
 
