@@ -30,3 +30,9 @@ Se cubrirán los siguientes temas:
   * Toma de notas. Obsidian.
   * Lenguage de marcado MarkDown.
   * Código fuente. GIT y GITHUB.
+
+# Clases
+
+Iremos colgando enlaces de los guiones de las diferentes clases que vamos a ir preparando.
+
+* [01 - Introducción a la formación](clases/01-introduccion-formacion.md)
