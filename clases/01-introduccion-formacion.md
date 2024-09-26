@@ -21,7 +21,7 @@ Arrancamos la máquina Linux y presentamos el escritorio y primeras impresiones.
 
 Es importante que tengamos siempre en cuanta la realización de copias de seguridad de la máquina virtual.
 
-Podemos aprender como se realiza una copia de seguridad **[AQUI](../fundamentos/virtualbox#copia-de-seguridad-en-virtualbox)**.
+Podemos aprender como se realiza una copia de seguridad **[AQUI](../fundamentos/virtualbox.md#copia-de-seguridad-en-virtualbox)**.
 
 Es importante hacer copia de seguridad:
 

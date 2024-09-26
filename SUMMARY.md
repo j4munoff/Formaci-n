@@ -18,8 +18,10 @@
 
 ## Linux
 
-* [Introducción](Linux/01-introduccionlinux.md)
 * [Instalación de Linux en VirtualBox](Linux/00-instalacionvbox.md)
+* [Introducción a Linux](Linux/01-introduccionlinux.md)
+* [Configuración del Entorno](Linux/02-configuracion-del-entorno.md)
+
 
 ## Pentesting
 
