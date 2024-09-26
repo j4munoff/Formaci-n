@@ -78,10 +78,14 @@ Las redes se pueden ver en modo Experto bajo el menú **Archivo --> Herramientas
 > La revisión de redes la haremos con una clase.
 {: .block-danger }
 
-> ##### DANGER
+> ##### IMPORTANTE
 >
-> You cannot delete an ephemeral message.
+> La revisión de redes la haremos con una clase.
 {: .block-danger }
+
+{% hint style="danger" %}
+**IMPORTANTE** La revisión de redes la haremos con una clase.
+{% endhint %}
 
 ## Copia de seguridad en VirtualBox
 
