@@ -13,12 +13,6 @@
 
 ## Linux
 
-* [Instalación de Linux en VirtualBox](linux/00-instalacionvbox.md)
-* [Introducción a Linux](linux/01-introduccionlinux.md)
-* [Configuración del Entorno](linux/02-configuracionentorno.md)
-
-## Lin
-
 * [Instalación de Linux en VirtualBox](lin/00-instalacionvbox.md)
 * [Introducción a Linux](lin/01-introduccionlinux.md)
 * [Configuración del Entorno](lin/02-configuracionentorno.md)
