@@ -172,6 +172,8 @@ export LS_COLORS="rs=0:di=34:ln=36:mh=00:pi=40;33:so=35:do=35:bd=40;33;01:cd=40;
 
 ### Configuramos el navegador
 
+Añadimos algunas extensiones.
+
 ## Lecturas/visionados previos recomendados.
 
 Ponemos por escrito lo adelantado por Whatsapp y ampliamos la información. El visionado de estos recursos hay que hacerlo con calma y con el fin de que nos suene y sepamos un poco de que hablamos. Profundizaremos en ello mas adelante.
