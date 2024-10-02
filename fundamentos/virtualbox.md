@@ -107,6 +107,20 @@ Vamos al menú **Máquina --> Herramientas-->Instantaneas** y seleccionamos una 
 
 Seleccionamos la opción de **Restaurar** y nos restaurará la máquina virtual.
 
+## Copiar y pegar entre máquina virtual y maquina principal
+
+Para activar la opción de copiar y pegar desde/hacia la máquina virtual hay que ponerse en la máquina, **CON ELLA APAGADA**,  con el botón derecho y elegir configuración.
+
+![alt text](../images/img-virtualbox-19.png)
+
+En general --> Avanzado aparecerán las opciones deshabilitadas.
+
+![alt text](../images/img-virtualbox-20.png)
+
+Las habilitamos como **bidireccional** y aceptamos.
+
+![alt text](../images/img-virtualbox-21.png)
+
 ## Atajos en VirtualBox
 
 En todos los programas de virtualización existe una tecla llamada **MASTER** que permite combinar con otras teclas para interactuar con el sistema anfitrión, nuestro windows.

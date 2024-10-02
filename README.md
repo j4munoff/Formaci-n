@@ -13,15 +13,15 @@ Los contenidos irñan aumentando progresivamente a demanda.
 # Temario
 Se cubrirán los siguientes temas:
 
-* Introducción a sistemas operativos
-* Introducción a sistemas de virtualización
+* [Introducción a sistemas operativos](fundamentos/sistemas-operativos.md)
+* [Introducción a sistemas de virtualización](fundamentos/virtualbox.md))
 * Linux:
-  * Instalación de Linux en máquina virtual.
-  * Introducción a Linux
+  * [Instalación de Linux en máquina virtual.](lin/instalacionvbox.md)
+  * [Introducción a Linux](lin/introduccionlinux.md)
   * Comandos Linux
   * Permisos en Linux
 * Redes
-  * Introducción a redes
+  * [Introducción a redes](fundamentos/fundamentosred.md)
 * Seguridad informática
   * Conceptos básicos
   * Áreas en ciberseguridad.

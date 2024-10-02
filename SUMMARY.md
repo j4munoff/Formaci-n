@@ -10,6 +10,7 @@
 
 * [Sistemas operativos](fundamentos/sistemas-operativos.md)
 * [Maquinas virtuales. Instalación de VirtualBox](fundamentos/virtualbox.md)
+* [Fundamentos de redes](fundamentos/fundamentosred.md)
 
 ## Linux
 
