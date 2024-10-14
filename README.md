@@ -1,22 +1,38 @@
 # Introducción
 
-El objetivo de esta documentación es ofrecer un acercamiento a la informática basado en mas de 25 años de experiencia.
+En este libro se pretende recopilar toda la información sobre la formación en informática partiendo desde 0.
 
-Se pretende ofrecer una introducción a los principales fundamentos de la informática y profundizar en determinados temas basados en la programación y en la seguridad.
+Los contenidos irñan aumentando progresivamente a demanda.
 
-Se abordarán temas como:
+{% hint style="danger" %}
+**IMPORTANTE** 
+* No es necesario tener conocimientos previos. Solo un ordenador y ganas.
+* No agobiarse. Nadie nace enseñado.  Se irán viendo las cosas con calma.
+{% endhint %}
 
-* Fundamentos
-  * Teclear en ordenador
-  * Sistemas operativos
-  * Introducción a Windows
-  * Introducción a Linux
-  * Comandos principales de Linux
-  * Fundamentos de Redes
-* Programación
-  * Fundamentos de programación
-  * Programación en Bash
-  * Programación en Python
-  * Programación en Java
+# Temario
+Se cubrirán los siguientes temas:
 
-Estamos escribiendo de forma de prueba.
+* [Introducción a sistemas operativos](fundamentos/sistemas-operativos.md)
+* [Introducción a sistemas de virtualización](fundamentos/virtualbox.md))
+* Linux:
+  * [Instalación de Linux en máquina virtual.](lin/instalacionvbox.md)
+  * [Introducción a Linux](lin/introduccionlinux.md)
+  * Comandos Linux
+  * Permisos en Linux
+* Redes
+  * [Introducción a redes](fundamentos/fundamentosred.md)
+* Seguridad informática
+  * Conceptos básicos
+  * Áreas en ciberseguridad.
+  * Seguridad ofensiva, Pentesting.
+* Miscelanea
+  * Toma de notas. Obsidian.
+  * Lenguage de marcado MarkDown.
+  * Código fuente. GIT y GITHUB.
+
+# Clases
+
+Iremos colgando enlaces de los guiones de las diferentes clases que vamos a ir preparando.
+
+* [01 - Introducción a la formación](clases/01-introduccion-formacion.md)
