@@ -5,6 +5,7 @@
 ## Clases
 
 * [01 - Introducción a la formación](clases/01-introduccion-formacion.md)
+* [02- Docker - DVWA](clases/02-docker-dvwa.md)
 
 ## Fundamentos
 
